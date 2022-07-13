@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+nav.navbar {
+  background-color: #00cba9;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-image: url(img/background.jpg);
+}
+
+h2 {
+  font-family: 'Poppins', sans-serif;
+}
+
+footer,
+footer.bawah {
+  background-color: #00cba9;
+  font-family: 'Poppins', sans-serif;
+  font-size: medium;
+}
+
+p.footer {
+  font-size: smaller;
+}
+
+.warna {
+  color: black;
+}
+
+#galery {
+  background-color: #e2ffe2;
+}
+
+body.detail-daftar {
+  background-image: url(img/background.jpg);
+}
+
+h1.judul {
+  font-family: 'Poppins', sans-serif;
+}
+
+section {
+  padding-top: 5rem;
+}
