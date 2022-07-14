@@ -4,6 +4,10 @@ nav.navbar {
   background-color: #00cba9;
 }
 
+.collapse {
+  transition: 0.4s;
+}
+
 .jumbotron {
   padding-top: 6rem;
   background-image: url(img/background.jpg);
@@ -13,8 +17,7 @@ h2 {
   font-family: 'Poppins', sans-serif;
 }
 
-footer,
-footer.bawah {
+footer {
   background-color: #00cba9;
   font-family: 'Poppins', sans-serif;
   font-size: medium;
